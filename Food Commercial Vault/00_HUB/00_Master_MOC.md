@@ -59,6 +59,7 @@ Load only what the task needs:
 - [[15_Food_Action_Physics_and_Human_Interaction]] when the ad needs tactile actions.
 - [[17_Set_Presentation_Plateware_and_Environment]] when background, tableware, or restaurant feel matters.
 - [[18_Sensory_Cues_Sound_Temperature_and_Implied_Texture]] when heat, crunch, sizzle, or thickness must feel obvious.
+- [[40_Music_Sound_Design_and_Audio_Strategy]] when the ad needs music selection, foley design, audio arc, or platform-specific sound strategy.
 
 ## Playbooks by Food Type
 Use one playbook at a time unless the concept combines dish families:
@@ -121,6 +122,10 @@ Load:
 - [[16_Continuity_Consistency_and_State_Tracking]]
 - [[19_Mobile_9x16_Framing_Pacing_and_Hook_Logic]]
 - one relevant playbook
+
+### Add sound design to any ad
+Add to any of the above paths:
+- [[40_Music_Sound_Design_and_Audio_Strategy]]
 
 ## Rules for Token Efficiency
 - Do not load every file by default.
