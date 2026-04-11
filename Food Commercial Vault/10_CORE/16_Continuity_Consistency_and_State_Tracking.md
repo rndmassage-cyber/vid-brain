@@ -110,6 +110,44 @@ Damage must persist:
 
 Damage consistency makes the sequence believable.
 
+## Positional and Geometric Precision
+
+### Clock-Face Notation
+Use clock positions to describe element placement on the plate:
+- "herb sprig at 11 o'clock"
+- "sauce pool spanning 4–5 o'clock"
+- "lemon wedge at 2 o'clock, cut-face toward center"
+
+This creates unambiguous descriptions that survive across shots, scales, and angles.
+
+### Geometric State Description
+After an action, describe the result geometrically, not narratively:
+- Not "after scooping" → "oval depression ~4 cm from center, 2 cm deep"
+- Not "sauce was drizzled" → "S-curve line of sauce, thickest at 6 o'clock, thinning toward 12"
+- Not "bite taken" → "crescent void on right side, exposing 3 interior layers"
+
+Geometric descriptions are verifiable across shots. Narrative descriptions are ambiguous.
+
+### Negative Constraints
+Explicitly state what must NOT be true after an action:
+- "surface is NOT intact" (after a cut)
+- "cheese strand is NOT continuous" (after a pull-and-break)
+- "liquid level is NOT at original height" (after a pour-out)
+
+Negative constraints catch continuity breaks that positive descriptions miss.
+
+### Volume Conservation (Extended)
+If a visible source dispenses material:
+- The source must show less (sauce bottle lighter, bowl level lower)
+- The target must show more (plate has sauce, glass has liquid)
+- If sauce drips off an edge, the drip must persist below
+
+If a piece is removed from a whole (pizza slice, cake portion):
+- The whole must show a matching void
+- The void geometry must match the removed piece
+
+---
+
 ## Common Failure Modes
 - burger cheese shifts below the patty
 - spoon enters a soup that later has no disturbed surface

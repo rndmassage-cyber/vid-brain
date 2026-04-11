@@ -59,7 +59,8 @@ Load only what the task needs:
 - [[15_Food_Action_Physics_and_Human_Interaction]] when the ad needs tactile actions.
 - [[17_Set_Presentation_Plateware_and_Environment]] when background, tableware, or restaurant feel matters.
 - [[18_Sensory_Cues_Sound_Temperature_and_Implied_Texture]] when heat, crunch, sizzle, or thickness must feel obvious.
-- [[40_Music_Sound_Design_and_Audio_Strategy]] when the ad needs music selection, foley design, audio arc, or platform-specific sound strategy.
+- [[40_Music_Sound_Design_and_Audio_Strategy]] when the ad needs music selection, foley design, audio arc, or sound strategy.
+- [[50_Commercial_Style_Taxonomy]] when choosing or confirming a visual style. Contains all 14 major food commercial styles with shot structure, camera language, audio profile, food-type fit, continuity risks, and style stacking logic. Also load when the visual style has not been specified in the brief.
 
 ## Playbooks by Food Type
 Use one playbook at a time unless the concept combines dish families:
@@ -126,6 +127,20 @@ Load:
 ### Add sound design to any ad
 Add to any of the above paths:
 - [[40_Music_Sound_Design_and_Audio_Strategy]]
+
+### Choose or confirm a visual style
+When the style is unspecified or ambiguous:
+- [[50_Commercial_Style_Taxonomy]] — 14 styles with comparison table and stacking logic
+
+### Build a style-specific ad (any style from taxonomy)
+Load:
+- [[10_15s_Commercial_Architecture]]
+- [[50_Commercial_Style_Taxonomy]] (for style-specific shot structure, camera, and audio)
+- [[11_Visual_Deliciousness_and_Appetite_Principles]]
+- [[16_Continuity_Consistency_and_State_Tracking]]
+- [[40_Music_Sound_Design_and_Audio_Strategy]] (if audio design needed)
+- [[19_Mobile_9x16_Framing_Pacing_and_Hook_Logic]] (if vertical)
+- one relevant playbook
 
 ## Rules for Token Efficiency
 - Do not load every file by default.
